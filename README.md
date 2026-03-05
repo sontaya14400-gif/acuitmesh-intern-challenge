@@ -1,7 +1,7 @@
 ทำแค่ Part 1 เสร็จ แต่ข้อที่เหลือไม่ได้ทำครับผม เพราะติดภาระงานกลุ่ม งานเดี่ยวในมหาลัย กับ มี Assignment จากบริษัทอื่นที่ต้องทำด้วยครับ
 จึงไม่สามารถดำเนินงานได้ครบทุก Part ภายในเวลาที่กำหนดครับ
 
-*** ในการทำ Intern Challenge ในครั้งนี้ผมใข้ AI assist ในการเขียนโค้ด ***
+*** ในการทำ Intern Challenge ในครั้งนี้ผมใข้ AI assist ในการทำ ***
 
 Part 1: Relational Data & SQL Optimization
 ### Logic Task 1: Data Ingestion
